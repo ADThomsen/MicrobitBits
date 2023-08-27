@@ -5,3 +5,9 @@ En `micro:bit` indeholder både et kompas og et accelerometer. I denne lektion s
 ## Kompas
 
 Lav et program, der reagerer på, at vores `micro:bit` bliver flyttet, ved at bruge kompasset til at tjekke hvilken vej den vender.
+
+**Tip:** Brug knapperne `A` og `B` til at aktivere og deaktivere alarmen.
+
+## Accelerometer
+
+
