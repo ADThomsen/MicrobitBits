@@ -29,4 +29,4 @@ Når vi starter nye programmer, gør vi det på følgende måde:
 
 ## Lektionsoversigt
 
-[001 Lydcensor](./001 Lydcensor)
+[001 Lydcensor](https://github.com/ADThomsen/MicrobitBits/edit/master/Alarmsystem/001%20%Lydcensor/README.md)
