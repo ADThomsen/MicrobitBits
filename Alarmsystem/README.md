@@ -31,4 +31,4 @@ Når vi starter nye programmer, gør vi det på følgende måde:
 
 [001 Lydcensor](/001%20Lydcensor)
 
-[002 Bevægelse](/001%20Bevægelse)
+[002 Bevægelse](/002%20Bevægelse)
