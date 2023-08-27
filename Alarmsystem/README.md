@@ -29,4 +29,6 @@ Når vi starter nye programmer, gør vi det på følgende måde:
 
 ## Lektionsoversigt
 
-[001 Lydcensor](https://github.com/ADThomsen/MicrobitBits/blob/ceb12cc39d76e2b95949a6d49e122398d63ae585/Alarmsystem/001%20Lydcensor/README.md)
+[001 Lydcensor](/001%20Lydcensor)
+
+[002 Bevægelse](/001%20Bevægelse)
