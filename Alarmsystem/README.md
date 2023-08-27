@@ -14,7 +14,7 @@ Vi starter med at lave simple programmer med `micro:bit`. Derefter bygger vi på
 
 ## Inden vi starter
 
-Inden vo starter, skal I gøre 2 ting:
+Inden vi starter, skal I gøre 2 ting:
 
 1. Lav en mappe på jeres computer, som I er sikre på I kan finde igen, fx på skrivebordet. Åben `Word`, lav et nyt dokument og gem det i den mappe I lige har lavet. Giv dokumentet navnet `Alarmsystem.docx`.
 2. Gå ind på https://makecode.microbit.org/ og log ind. Hvis I ikke har en konto, der kan logges ind med, skal I først have oprettet sådan en. Dette sikrer, at de programmer I laver, ikke bliver væk.
@@ -43,4 +43,5 @@ Nu har I to opgaver:
 1. Åben jeres `Alarmsystem.docx` og skriv: `Lydcensor: XX db` (i stedet for `XX` skriver I jeres grænse).
 2. Tænk over hvordan en lydcensor kan bruges i et alarmsystem. Skriv jeres idéer ned i `Alarmsystem.docx`
 
-## Anden lektion - Eksperiment med kompas
+## Anden lektion - Eksperiment med kompas og accellerometer
+
