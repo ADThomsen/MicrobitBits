@@ -14,7 +14,10 @@ Vi starter med at lave simple programmer med `micro:bit`. Derefter bygger vi på
 
 ## Inden vi starter
 
-Lav en mappe på jeres computer, som I er sikre på I kan finde igen, fx på skrivebordet. Åben `Word`, lav et nyt dokument og gem det i den mappe I lige har lavet. Giv dokumentet navnet `Alarmsystem.docx`.
+Inden vo starter, skal I gøre 2 ting:
+
+1. Lav en mappe på jeres computer, som I er sikre på I kan finde igen, fx på skrivebordet. Åben `Word`, lav et nyt dokument og gem det i den mappe I lige har lavet. Giv dokumentet navnet `Alarmsystem.docx`.
+2. Gå ind på https://makecode.microbit.org/ og log ind. Hvis I ikke har en konto, der kan logges ind med, skal I først have oprettet sådan en. Dette sikrer, at de programmer I laver, ikke bliver væk.
 
 ## Første lektion - eksperiment med lydfølsomhed
 
