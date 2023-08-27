@@ -24,8 +24,8 @@ Vi skal lave et program, der bruger lydcensoren som `input` og `rainbow LED` som
 
 |Decibel-niveau|Farve LED|
 |-------|-------|
-|< 30|Slukket|
-|30-50|Grøn|
+|< 40|Slukket|
+|40-50|Grøn|
 |51-70|Gul|
 |71-90|Blå|
 |91-110|Orange|
