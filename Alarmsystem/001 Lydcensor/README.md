@@ -1,5 +1,7 @@
 # Eksperiment med lydfølsomhed
 
+[Startkode](Startkode.ts)
+
 Hvis der pludselig er larm i det rum vi overvåger vil vi gerne have at alarmen går. I første lektion skal vi lære at bruge lydcensoren. Lydcensoren måler støjen omkring den i decibel (db), som vi kan aflæse på vores `micro:bit`. Vores eksperiment i dag skal hjælpe os til at finde ud af, hvor følsom lydcensoren i vores alarmsystem skal være.
 
 Vi skal lave et program, der bruger lydcensoren som `input` og `rainbow LED` som `output`. Vores program skal få `rainbow LED` til at lyse i forskellige farver, alt efter hvilket decibel-niveau, der måles af lydcensoren. Programmet skal overholde følgende regler:
