@@ -29,6 +29,6 @@ Når vi starter nye programmer, gør vi det på følgende måde:
 
 ## Lektionsoversigt
 
-[001 Lydcensor](./001%20Lydcensor)
+[001 Lydcensor](/Alarmsystem/001%20Lydcensor)
 
-[002 Bevægelse](./002%20Bevægelse)
+[002 Bevægelse](/Alarmsystem/002%20Bevægelse)
