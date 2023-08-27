@@ -29,10 +29,10 @@ Vi skal lave et program, der bruger lydcensoren som `input` og `rainbow LED` som
 |-------|-------|
 |< 40|Slukket|
 |40-50|Grøn|
-|51-70|Gul|
-|71-90|Blå|
-|91-110|Orange|
-|>110|Rød|
+|51-60|Gul|
+|61-70|Blå|
+|71-80|Orange|
+|>80|Rød|
 
 Når jeres program virker, skal I vurdere hvor lydfølsom jeres alarm skal være. Lav lidt lyd omkring lydcensoren og hold øje med farven på `rainbow LED`. Når I laver så meget larm, som I mener jeres alarm skal reagere på, skal I tjekke farven på lyset. 
 
