@@ -1,6 +1,7 @@
 # Eksperiment med lydfølsomhed
 
-[Startkode](Startkode.ts)
+[Startkode.ts](Startkode.ts)
+[Lydcensor.ts](Lydcensor.ts)
 
 Hvis der pludselig er larm i det rum vi overvåger vil vi gerne have at alarmen går. I første lektion skal vi lære at bruge lydcensoren. Lydcensoren måler støjen omkring den i decibel (db), som vi kan aflæse på vores `micro:bit`. Vores eksperiment i dag skal hjælpe os til at finde ud af, hvor følsom lydcensoren i vores alarmsystem skal være.
 
